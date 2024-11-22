@@ -1,6 +1,6 @@
 version: '3'
 services:
-  voice-to-text-telegram-bot:
+  short_link:
     build:
       context: .
       dockerfile: Dockerfile
